@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## About me:
 
-- 🎓 I really like to learn!
+- 🎓: I really like to learn!
 - 💻 I'm working with Web Development
 - 📚 Currently studying Javascript and ReactJs
 - ☕ My goal is to be a full stack developer with the stack:
