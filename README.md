@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 ## About me:
 
-- :mortar_board: I really like to learn!
-- :computer: I'm working with Web Development
+-:mortar_board: I really like to learn!
+- :computer : I'm working with Web Development
 - :books: Currently studying Javascript and ReactJs
 - :coffee: My goal is to be a full stack developer with the stack:
 
