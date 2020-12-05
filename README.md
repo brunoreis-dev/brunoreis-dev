@@ -44,14 +44,10 @@ Here are some ideas to get you started:
 
 ## About me:
 
-- :mortar_board:  
-I really like to learn!
-- :computer: 
-I'm working with Web Development
-- :books:  
-Currently studying Javascript and ReactJs
-- :coffee: 
-My goal is to be a full stack developer with the stack:
+- :mortar_board: I really like to learn!
+- :computer: I'm working with Web Development
+- :books: Currently studying Javascript and ReactJs
+- :coffee: My goal is to be a full stack developer with the stack:
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() [![Reactnative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![Mongodb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]() [![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]() 
 
