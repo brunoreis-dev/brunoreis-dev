@@ -7,7 +7,7 @@ I love [functional programming](https://en.wikipedia.org/wiki/Functional_program
 - 🌱 I’m currently learning C, Elixir and Ruby Langs.
 - 📫 How to reach me:
   - My Email: [contato.b.macedoreis@icloud.com](mailto:contato.b.macedoreis@icloud.com)
-  - My Linkedin: [@maxhero_](http://www.twitter.com/maxhero_)
+  - My Linkedin: [Bruno Reis]([http://www.twitter.com/maxhero_](https://www.linkedin.com/in/bruno-reis-9a937b189/))
 
 
 <div>
