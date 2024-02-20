@@ -1,8 +1,6 @@
 ### About me
 I'm Bruno Macedo Reis. :man_technologist:
 
-I love [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
-
 - 🔭 I’m currently working on some projects to develop my base programming ( as Algorithms and Data Structure Challanges ) and math skills.
 - 🌱 I’m currently learning Assembly, C and Elixir Langs and some more about computer science.
 - 📫 How to reach me:
