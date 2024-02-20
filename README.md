@@ -13,5 +13,5 @@ I'm Bruno Macedo Reis. :man_technologist:
   </a>
 </div>
 <div>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoreis-dev&layout=compact&langs_count=20&theme=monokai"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoreis-dev&layout=compact&langs_count=20&theme=monokai"/>
 </div>
