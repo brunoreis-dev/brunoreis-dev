@@ -10,5 +10,5 @@ I'm Bruno Macedo Reis. :man_technologist:
 <div>
   <a href="https://github.com/brunoreis-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoreis-dev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoreis-dev&layout=compact&langs_count=10&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoreis-dev&layout=compact&langs_count=12&theme=monokai"/>
 </div>
