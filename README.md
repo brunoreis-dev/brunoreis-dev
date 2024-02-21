@@ -6,9 +6,6 @@ Hey, I'm Bruno Macedo Reis. :man_technologist:
 - 📫 How to reach me:
   - My Email: [b.macedoreis@icloud.com](mailto:b.macedoreis@icloud.com)
   - My Linkedin: [https://www.linkedin.com/in/bruno-reis-9a937b189](https://www.linkedin.com/in/bruno-reis-9a937b189/)
- 
-![um gif legal do esquilo da github](https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76117ef37ed33363199189e489b479e1187211fe96a0&rid=giphy.gif&ct=g)
-
 
 <div>
   <a href="https://github.com/brunoreis-dev">
