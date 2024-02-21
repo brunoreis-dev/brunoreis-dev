@@ -1,7 +1,7 @@
 ### About me
 Hey, I'm Bruno Macedo Reis. :man_technologist:
 
-- 🔭 I’m currently working on .
+- 🔭 I’m currently working on a finance institution with more focus in Frontend.
 - 🌱 I’m currently learning Assembly, C and Elixir Langs and bulding some projects to develop my base programming ( as Algorithms and Data Structure Challanges ) and math skills.
 - 📫 How to reach me:
   - My Email: [b.macedoreis@icloud.com](mailto:b.macedoreis@icloud.com)
