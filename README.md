@@ -18,6 +18,6 @@ Hey, I'm Bruno Macedo Reis. :man_technologist:
 </div>
 
 <div>
-   ![Snake animation](./snake.svg)
+  <img src="./snake.svg" />
 </div>
 
