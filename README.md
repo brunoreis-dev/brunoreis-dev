@@ -21,5 +21,8 @@ Currículo WEB: https://brunoreis-dev.github.io/curriculo-app/
   </a>
 </div>
 
+<div>
+  <img src="./snake.svg" />
+</div>
 
 
